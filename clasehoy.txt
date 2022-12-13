@@ -1,0 +1,3 @@
+En la clase de hoy vimos como crear un repositorio en git hub
+Comandos principales
+Es un sistema de control de versiones
