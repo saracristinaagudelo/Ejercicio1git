@@ -1,1 +1,0 @@
-En la clase anterior vimos los principales conceptos de git
