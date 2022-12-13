@@ -1,3 +1,4 @@
-En la clase de hoy vimos como crear un repositorio en git hub
+
 Comandos principales
 Es un sistema de control de versiones
+Como ignorear archivos para no ser comprometidos en el area de trabajo
